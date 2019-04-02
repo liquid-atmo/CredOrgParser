@@ -9,6 +9,6 @@ Test task for a Java developer
 
 Technologies stack: Hybernate, Spring, Spring Data, Maven, MySql
 
-Для запуска: sourse classes для сервера СBR здесь уже сформированы при помощи плагина.
+Для запуска: source classes для сервера СBR здесь уже сформированы при помощи плагина.
 Значок ошибки в pom.xml вызван структурой wsld-документа, он на функционал не влияет.
 При запуске никакие аргументы не нужны. Стартовый файл в папке application
